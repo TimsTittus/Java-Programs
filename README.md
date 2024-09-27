@@ -1,7 +1,7 @@
 # Java Programming
 
 <h3>Welcome to the Java Programs Repository! </h3>
-<h4>This repository contains a collection of Java programs that I come accross as I cover various topics and concepts in Java programming.I will be adding here the C programming codes that i am doing for a while through out my second semester.</h4>
+<h4>This repository contains a collection of Java programs that I come accross as I cover various topics and concepts in Java programming.I will be adding here the java programming codes that i am doing for a while through out my second semester.</h4>
 Ensure you have Java Development Kit (JDK) installed on your system. 
 You can download it from : https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
