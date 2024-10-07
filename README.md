@@ -22,8 +22,9 @@ You can download it from : https://www.oracle.com/java/technologies/javase-jdk11
 1. [HelloWorld](HelloWorld)
 2. [Add two numbers without input](AddTwoNumWithoutConsole.java)
 3. [To check if 121 is palindrome or not](PalindromeWithoutConsole.java)
-4. [Inheritance](Inheritance.java)
-5. [MultiInheritance](MultiInheritance.java)
+4. [To find frequency of a character in a string](Characterfrequency.java)
+5. [Inheritance](Inheritance.java)
+6. [MultiInheritance](MultiInheritance.java)
 
 ## Contact
 
