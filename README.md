@@ -25,6 +25,8 @@ You can download it from : https://www.oracle.com/java/technologies/javase-jdk11
 4. [To find frequency of a character in a string](Characterfrequency.java)
 5. [Inheritance](Inheritance.java)
 6. [MultiInheritance](MultiInheritance.java)
+7. [Try catch](trycatch.java)
+8. [Try catch finally](trycatchfinally.java)
 
 ## Contact
 
